@@ -1,3 +1,21 @@
+## Clone
+
+```$ git clone git@github.com:thimyxuan/speed-dating-analysis.git```
+
+## Dépendances
+
+```$ pip install library_name```
+
+Vous aurez besoin d'installer les librairies ci-dessous.
+
+## Stack technique 
+
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
 ## Sujet
 
 Tinder souhaite trouver des solutions pour améliorer le nombre de match sur son application.  
@@ -31,11 +49,3 @@ PARTIE 4 - Conclusion
 - Autres facteurs d'influence
 - Recommandations
 - Limites et améliorations
-
-## Stack technique 
-
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
