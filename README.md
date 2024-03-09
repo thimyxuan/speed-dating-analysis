@@ -34,8 +34,8 @@ PARTIE 4 - Conclusion
 
 ## Stack technique 
 
-Python
-Pandas
-Numpy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
