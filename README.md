@@ -6,7 +6,7 @@
 
 ```$ pip install library_name```
 
-Vous aurez besoin d'installer les librairies ci-dessous.
+Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
 
 ## Stack technique 
 
