@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/speed-dating-analysis.git```
+```$ git clone https://github.com/thimyxuan/speed-dating-analysis.git```
 
 ## Dépendances
 
